@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+#name {
+    display: none;
+    margin: auto;
+}
+#number {
+    display: none;
+    margin: auto;
+}
+#email {
+    display: none;
+    margin: auto;
+}
+#save {
+    display: none;
+    margin: auto;
+}
